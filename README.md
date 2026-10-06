@@ -103,3 +103,7 @@ different, and it works.
 
 *Open `P06.ipynb` in Jupyter and work through it top to bottom.
 The notebook contains everything in this handout, plus the code.*
+
+## AI Use
+Help fixing issues with Library import
+Fixes in code bugs in one of the code cell
